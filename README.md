@@ -1,4 +1,4 @@
 # avnit-demo
 This is my first Git Repository.
 <br>
-Author - Avnit Singh
+Author - Avnit.Singh
